@@ -6,8 +6,8 @@ Simple [Thor](http://whatisthor.com/) task which extracts torrents from [KTorren
 
 Clone code somewhere:
 
-    $ git clone git://github.com/asux/ktorret-extract_torrents.git ~/ktorret-extract_torrents
-    $ cd ~/ktorret-extract_torrents
+    $ git clone git://github.com/asux/ktorrent-extract_torrents.git ~/ktorrent-extract_torrents
+    $ cd ~/ktorrent-extract_torrents
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Install task to Thor:
 
-    $ thor install ktorret-extract_torrents.thor
+    $ thor install ktorrent-extract_torrents.thor
 
 ## Usage
 

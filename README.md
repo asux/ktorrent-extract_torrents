@@ -1,6 +1,6 @@
 # Ktorret::ExtractTorrents
 
-Simple [Thor](http://whatisthor.com/) task which extracts torrents from KTorrent application directory.
+Simple [Thor](http://whatisthor.com/) task which extracts torrents from [KTorrent](http://ktorrent.org) application directory.
 
 ## Installation
 
@@ -22,6 +22,10 @@ Install task to Thor:
 Check this:
 
     $ thor help ktorrent:extract_torrents
+
+Or just run:
+
+    $ thor ktorrent:extract_torrents
 
 ## Contributing
 
